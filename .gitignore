@@ -1,0 +1,15 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 编译产物
+out/
+bin/
+target/
+*.class
+
+# 系统与日志
+.DS_Store
+Thumbs.db
+*.log
