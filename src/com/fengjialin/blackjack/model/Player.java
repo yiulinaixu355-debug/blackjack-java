@@ -68,4 +68,6 @@ public class Player {
     public void newRound() {
         hand.clear();
     }
+
+    public void loseBet() {}
 }
